@@ -1,0 +1,53 @@
+.one>p:nth-child(even){
+	color: gold;
+	background-color: red;
+}
+.one>p:nth-child(odd){
+	background-color: skyblue;
+}
+.one>h1:nth-child(7){
+	background-color:gold;
+}
+.one>p:nth-child(10)
+{background-color:blue;}
+#oppu1{
+	background-color: red;
+}
+#myAddress{
+	background-color:darkgoldenrod;
+}
+.x{
+	background-color: gold;
+}
+h1.x{
+	background-color: green;
+	color: gold;
+}
+.w>h1 {
+	color: white;
+	background-color: red;
+}
+.w>p{
+	color:white;
+	background-color: gold;
+}
+.w .y .z p{
+	color: yellow;
+	background-color: red;
+}
+.w>p{
+	color: white;
+	background-color: blue;
+}
+.w .y>h1{
+	color: gold;
+	background-color: skyblue;
+}
+.w .y>p{
+	color: red;
+	background-color: gold;
+}
+.w .y .z h1{color: white;
+	background-color: green;
+}
+
